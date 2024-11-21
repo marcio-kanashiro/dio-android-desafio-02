@@ -2,4 +2,8 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="response_error">Error fetching the repository list.</string>
+
+    <!--  SharedPreferences  -->
+    <string name="saved_user_name">saved_user_name</string>
 </resources>
